@@ -46,7 +46,7 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daraland98&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daraland98&show_icons=true&theme=radical" alt="GitHub Stats" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daraland98&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
