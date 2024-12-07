@@ -52,7 +52,13 @@
    
 </div>
 
+## My repository
 
+<div align="center">
+  
+   [![Advent](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventjs-python-2024&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventjs-python-2024&theme=synthwave)
+   
+</div>
 
 ## You can find me :round_pushpin::  
 
