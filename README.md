@@ -69,7 +69,7 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/darashorizont/" target="_blank">
+  <a href="https://instagram.com/daraland98/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40" />
   </a>
 
