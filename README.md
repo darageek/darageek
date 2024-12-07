@@ -45,10 +45,13 @@
 
 ## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daraland98&show_icons=true&theme=radical" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daraland98&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+   
+   ![Dara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daraland98&show_icons=true&theme=synthwave)
+   ![Dara's GitHub lengua](https://github-readme-stats.vercel.app/api/top-langs/?username=daraland98&layout=compact&theme=synthwave)
+   
+</div>
+
 
 
 ## You can find me :round_pushpin::  
