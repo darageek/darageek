@@ -1,6 +1,6 @@
 <!-- Header Image or Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92de7897-ce82-4d80-b285-820800278dad" alt="banner" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/ba55e58e-6384-4495-8113-8e844caedb48" alt="banner" width="250" height="250"/>
 </p>
 
 <!-- Main Title -->
