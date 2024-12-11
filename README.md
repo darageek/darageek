@@ -56,7 +56,8 @@
 
 <div align="center">
   
-   [![Advent](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventjs-python-2024&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventjs-python-2024&theme=synthwave)
+   [![Adventjs](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventjs-python&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventjs-python-2024&theme=synthwave)
+   [![Adventofcode](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventofcode-python&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventofcode-python&theme=synthwave)
    
 </div>
 
