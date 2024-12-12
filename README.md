@@ -47,8 +47,8 @@
 
 <div align="center">
    
-   ![Dara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daraland98&show_icons=true&theme=synthwave)
-   ![Dara's GitHub lengua](https://github-readme-stats.vercel.app/api/top-langs/?username=daraland98&layout=compact&theme=synthwave)
+   ![Dara's GitHub stats](https://github-readme-stats.vercel.app/api?username=darageek&show_icons=true&theme=synthwave)
+   ![Dara's GitHub lengua](https://github-readme-stats.vercel.app/api/top-langs/?username=darageek&layout=compact&theme=synthwave)
    
 </div>
 
@@ -56,8 +56,8 @@
 
 <div align="center">
   
-   [![Adventjs](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventjs-python&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventjs-python-2024&theme=synthwave)
-   [![Adventofcode](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventofcode-python&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=Daraland98&repo=adventofcode-python&theme=synthwave)
+   [![Adventjs](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=adventjs-python&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=adventjs-python-2024&theme=synthwave)
+   [![Adventofcode](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=adventofcode-python&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=adventofcode-python&theme=synthwave)
    
 </div>
 
