@@ -56,9 +56,7 @@
 
 <div align="center">
   
-   [![Adventjs](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=adventjs-python&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=adventjs-python&theme=synthwave)
-   [![Adventofcode](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=adventofcode-python&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=adventofcode-python&theme=synthwave)
-   [![KeyTrainer](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=KeyTrainer&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=KeyTrainer&theme=synthwave)
+   [![Adventjs](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=multi-language-calculator&theme=synthwave)](https://github-readme-stats.vercel.app/api/pin/?username=darageek&repo=multi-language-calculator&theme=synthwave)
    
 </div>
 
